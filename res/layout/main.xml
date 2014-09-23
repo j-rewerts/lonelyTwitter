@@ -42,5 +42,11 @@
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text="@string/save" />
+        
+    <Button
+        android:id="@+id/stats"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/stats" />
 
 </LinearLayout>

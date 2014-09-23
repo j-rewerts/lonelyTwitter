@@ -5,5 +5,8 @@
     <string name="app_name">LonelyTwitter</string>
     <string name="save">Save</string>
     <string name="clear">Clear</string>
-    
+    <string name="title_activity_number_of_tweets">NumberOfTweets</string>
+    <string name="action_settings">Settings</string>
+    <string name="stats">Twitter Stats</string>
+
 </resources>
